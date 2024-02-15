@@ -1,0 +1,10 @@
+package com.simple;  
+import java.util.Scanner;
+import javax.swing.JOptionPane;
+/** This is some JavaDoc */
+public class HelloWorld {
+  public static void main(String[] args) {
+    //System.out.println("Hello. What is your name raghvendragoyl ");
+    Scanner scan = new Scanner(System.in); formatting 
+      //String name = scan.nextLine(); fonts 
+      
